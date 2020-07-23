@@ -6,6 +6,6 @@ public class EBMain
 {
 	public static void main(String a[])
 	{
-	System.out.println(new ConnectionService().generateBill(130,100,"Commercial"));
+	System.out.println(new ConnectionService().generateBill(130,100,"domestic"));
 	}
 }
